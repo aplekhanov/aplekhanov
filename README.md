@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Alexey Plekhanov. I'm a software engineer with over 20 years of application development experience. 
+My name is Alex Plekhanov. I'm a software engineer with over 20 years of application development experience. 
 
 For the past ten years, I have been designing, coding, and publishing apps on the App Store along with in-house development for other companies. This decade of professional experience gave me vast exposure to all Apple platforms including watchOS, iOS, iPadOS, macOS, tvOS, and also backend development using Server Side Swift.
 
