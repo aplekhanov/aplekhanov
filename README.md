@@ -12,16 +12,14 @@ Since 2016, I have founded and run [a small company](https://rapport.tech/) focu
 In addition, to keep learning new things, I have a few personal projects that you can see below:
 
 
-<a href="https://aplekhanov.github.io/ringmaker-app/"><img src="https://aplekhanov.github.io/ringmaker-app/assets/icon.png" width=60></a>
+<a href="https://apps.apple.com/app/id1662361696"><img src="https://aplekhanov.github.io/malevich-app/assets/icon.png" width=60></a>
 &nbsp;
-<a href="https://aplekhanov.github.io/nappy-pin-app/"><img src="https://aplekhanov.github.io/nappy-pin-app/assets/icon.png" width=60></a>
+<a href="https://apps.apple.com/app/id1561718371"><img src="https://aplekhanov.github.io/wallpapermaker-app/assets/icon.png" width=60></a>
 &nbsp;
-<a href="https://aplekhanov.github.io/vitaminwater-app/"><img src="https://aplekhanov.github.io/vitaminwater-app/assets/icon.png" width=60></a>
+<a href="https://apps.apple.com/app/id1553737228"><img src="https://aplekhanov.github.io/widgetmaker-app/assets/icon.png" width=60></a>
 &nbsp;
-<a href="https://aplekhanov.github.io/malevich-app/"><img src="https://aplekhanov.github.io/malevich-app/assets/icon.png" width=60></a>
+<a href="https://apps.apple.com/app/id1560567910"><img src="https://aplekhanov.github.io/ringmaker-app/assets/icon.png" width=60></a>
 &nbsp;
-<a href="https://aplekhanov.github.io/wallpapermaker-app/"><img src="https://aplekhanov.github.io/wallpapermaker-app/assets/icon.png" width=60></a>
+<a href="https://apps.apple.com/app/id928863156"><img src="https://aplekhanov.github.io/nappy-pin-app/assets/icon.png" width=60></a>
 &nbsp;
-<a href="https://aplekhanov.github.io/widgetmaker-app/"><img src="https://aplekhanov.github.io/widgetmaker-app/assets/icon.png" width=60></a>
-&nbsp;
-
+<a href="https://apps.apple.com/app/id1575249153"><img src="https://aplekhanov.github.io/vitaminwater-app/assets/icon.png" width=60></a>
