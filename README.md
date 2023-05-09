@@ -13,9 +13,9 @@ In addition, to keep learning new things, I have a few personal projects that yo
 
 <a href="https://apps.apple.com/app/id6446344230"><img src="https://aplekhanov.github.io/mygpt-app/assets/icon.png" width=60></a>
 &nbsp;
-<a href="https://apps.apple.com/app/id1560567910"><img src="https://aplekhanov.github.io/ringmaker-app/assets/icon.png" width=60></a>
-&nbsp;
 <a href="https://apps.apple.com/app/id1662361696"><img src="https://aplekhanov.github.io/iconmaker-app/assets/icon.png" width=60></a>
+&nbsp;
+<a href="https://apps.apple.com/app/id1560567910"><img src="https://aplekhanov.github.io/ringmaker-app/assets/icon.png" width=60></a>
 &nbsp;
 <a href="https://apps.apple.com/app/id1561718371"><img src="https://aplekhanov.github.io/wallpapermaker-app/assets/icon.png" width=60></a>
 &nbsp;
