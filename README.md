@@ -9,11 +9,9 @@ I'm open to new opportunities where I can continue to learn, contribute meaningf
 Since 2016, I have founded and run a small company focusing on a B2B solution that helps everybody in the meeting room be on the same page.
 In addition, to keep learning new things, I have a few personal projects that you can see below:
 
-<a href="https://apps.apple.com/app/id6446344230"><img src="https://aplekhanov.github.io/mygpt-app/assets/icon.png" width=60></a>
+<a href="https://apps.apple.com/app/id1560567910"><img src="https://aplekhanov.github.io/ringmaker-app/assets/icon.png" width=60></a>
 &nbsp;
 <a href="https://apps.apple.com/app/id1662361696"><img src="https://aplekhanov.github.io/iconmaker-app/assets/icon.png" width=60></a>
-&nbsp;
-<a href="https://apps.apple.com/app/id1560567910"><img src="https://aplekhanov.github.io/ringmaker-app/assets/icon.png" width=60></a>
 &nbsp;
 <a href="https://apps.apple.com/app/id1532894165"><img src="https://aplekhanov.github.io/malevich-app/assets/icon.png" width=60></a>
 &nbsp;
@@ -24,3 +22,6 @@ In addition, to keep learning new things, I have a few personal projects that yo
 <a href="https://apps.apple.com/app/id928863156"><img src="https://aplekhanov.github.io/nappy-pin-app/assets/icon.png" width=60></a>
 &nbsp;
 <a href="https://apps.apple.com/app/id1575249153"><img src="https://aplekhanov.github.io/vitaminwater-app/assets/icon.png" width=60></a>
+&nbsp;
+<a href="https://apps.apple.com/app/id6446344230"><img src="https://aplekhanov.github.io/mygpt-app/assets/icon.png" width=60></a>
+&nbsp;
