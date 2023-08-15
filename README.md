@@ -6,7 +6,7 @@ For the past ten years, I have been designing, coding, and publishing apps on th
 
 I'm open to new opportunities where I can continue to learn, contribute meaningfully, and foster growth. Feel free to [reach out](mailto:mail@aplekhanov.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/aplekhanov/)!
 
-Since 2016, I have founded and run a small company focusing on a B2B solution that helps everybody in the meeting room be on the same page.
+Since 2016, I have founded and run [a small company focusing on a B2B solution](https://rapport.tech) that helps everybody in the meeting room be on the same page.
 In addition, to keep learning new things, I have a few personal projects that you can see below:
 
 <a href="https://apps.apple.com/app/id1560567910"><img src="https://aplekhanov.github.io/ringmaker-app/assets/icon.png" width=60></a>
