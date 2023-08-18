@@ -6,7 +6,7 @@ For the past ten years, I have been designing, coding, and publishing apps on th
 
 I'm open to new opportunities where I can continue to learn, contribute meaningfully, and foster growth. Feel free to [reach out](mailto:mail@aplekhanov.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/aplekhanov/)!
 
-Since 2016, I have founded and run [a small company focusing on a B2B solution](https://rapport.tech) that helps everybody in the meeting room be on the same page:
+I have founded and run [a small company focusing on a B2B solution](https://rapport.tech) that helps everybody in the meeting room be on the same page:
 
 <a href="https://pitch.com/public/5ea447ba-9785-4947-8f5d-5d6b59c6c691"><img src="https://rapport.tech/assets/images/welcome.png" width=640></a>
 
