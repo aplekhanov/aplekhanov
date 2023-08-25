@@ -28,3 +28,11 @@ In addition, to keep learning new things, I have a few personal projects that yo
 &nbsp;
 <a href="https://apps.apple.com/app/id6446344230"><img src="https://aplekhanov.github.io/mygpt-app/assets/icon.png" width=60></a>
 &nbsp;
+
+### 🛠️ Technologies & Tools
+![](https://img.shields.io/badge/OS-iOS-informational?style=flat&logo=apple&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Editor-Xcode-informational?style=flat&logo=xcode&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Cloud-Appwrite-informational?style=flat&logo=appwrite&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Interest-AppStore-informational?style=flat&logo=appstore&logoColor=white&color=blue)
