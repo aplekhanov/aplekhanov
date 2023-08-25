@@ -10,6 +10,7 @@ I have founded and run [a small company focusing on a B2B solution](https://rapp
 
 <a href="https://pitch.com/public/5ea447ba-9785-4947-8f5d-5d6b59c6c691"><img src="https://rapport.tech/assets/images/welcome.png" width=640></a>
 
+### 📱 Side projects
 In addition, to keep learning new things, I have a few personal projects that you can see below:
 
 <a href="https://apps.apple.com/app/id1560567910"><img src="https://aplekhanov.github.io/ringmaker-app/assets/icon.png" width=60></a>
