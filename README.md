@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Alex Plekhanov. I am a software engineer focusing on development for Apple Platforms. 
+My name is Alex Plekhanov. I am a product-minded software engineer focusing on development for Apple Platforms. 
 
 For the past ten years, I have been designing, coding, and publishing apps on the App Store along with in-house development for other companies. This decade of professional experience gave me vast exposure to all Apple platforms including watchOS, iOS, iPadOS, macOS, tvOS, and also backend development using Server Side Swift.
 
