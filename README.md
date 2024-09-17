@@ -17,8 +17,6 @@ In addition, to keep learning new things, I have a few personal projects that yo
 &nbsp;
 <a href="https://apps.apple.com/app/id1662361696"><img src="https://aplekhanov.github.io/iconmaker-app/assets/icon.png" width=60></a>
 &nbsp;
-<a href="https://apps.apple.com/app/id1532894165"><img src="https://aplekhanov.github.io/malevich-app/assets/icon.png" width=60></a>
-&nbsp;
 <a href="https://apps.apple.com/app/id1561718371"><img src="https://aplekhanov.github.io/wallpapermaker-app/assets/icon.png" width=60></a>
 &nbsp;
 <a href="https://apps.apple.com/app/id1553737228"><img src="https://aplekhanov.github.io/widgetmaker-app/assets/icon.png" width=60></a>
