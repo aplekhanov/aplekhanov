@@ -4,11 +4,9 @@ My name is Alex Plekhanov. I am a product-minded software engineer focusing on d
 
 For the past ten years, I have been designing, coding, and publishing apps on the App Store along with in-house development for other companies. This decade of professional experience gave me vast exposure to all Apple platforms including watchOS, iOS, iPadOS, macOS, tvOS, and also backend development using Server Side Swift.
 
+I have founded and run [a small company focusing on a B2B solution](https://rapport.tech) that helps everybody in the meeting room [be on the same page](https://pitch.com/public/5ea447ba-9785-4947-8f5d-5d6b59c6c691).
+
 I'm open to new opportunities where I can continue to learn, contribute meaningfully, and foster growth. Feel free to [reach out](mailto:mail@aplekhanov.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/aplekhanov/)!
-
-I have founded and run [a small company focusing on a B2B solution](https://rapport.tech) that helps everybody in the meeting room be on the same page:
-
-<a href="https://pitch.com/public/5ea447ba-9785-4947-8f5d-5d6b59c6c691"><img src="https://rapport.tech/assets/images/welcome.png" width=640></a>
 
 ### 📱 Side projects
 In addition, to keep learning new things, I have a few personal projects that you can see below:
@@ -33,5 +31,4 @@ In addition, to keep learning new things, I have a few personal projects that yo
 ![](https://img.shields.io/badge/Editor-Xcode-informational?style=flat&logo=xcode&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Cloud-Appwrite-informational?style=flat&logo=appwrite&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Interest-AppStore-informational?style=flat&logo=appstore&logoColor=white&color=blue)
